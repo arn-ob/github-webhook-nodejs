@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@octokit/webhooks": "^6.3.2"
+    "@octokit/webhooks": "^9.26.3"
   }
 }
